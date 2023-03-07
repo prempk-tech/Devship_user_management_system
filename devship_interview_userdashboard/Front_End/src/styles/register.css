@@ -1,0 +1,13 @@
+div {
+    border: 2px solid blue;
+    background-color: aquamarine;
+    box-shadow: 2px 3px 4px;
+}
+
+.validate {
+    box-sizing: inherit;
+    width: auto;
+    height: auto;
+    font-size: x-large;
+    box-shadow: 5px 2px 2px;
+}
